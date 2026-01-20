@@ -348,3 +348,4 @@ WARNING: Unmatched cancel notification for request id 73
 2026.01.20 12:22:20 WARN  no build target for: C:\Users\EbrimaMbye\Desktop\A_Teaching\binta\FINAL PROJECT - PROGRAMMING II\Hospital_management_System\hospital_mangement_system\src\main\java\com\group8\hospital_mangement_system\model\Department.java
 2026.01.20 12:22:21 WARN  Running javac-semanticdb failed for file:///C:/Users/EbrimaMbye/Desktop/A_Teaching/binta/FINAL%20PROJECT%20-%20PROGRAMMING%20II/Hospital_management_System/hospital_mangement_system/src/main/java/com/group8/hospital_mangement_system/model/Department.java. Output:
 
+2026.01.20 12:22:22 INFO  no build target found for C:\Users\EbrimaMbye\Desktop\A_Teaching\binta\FINAL PROJECT - PROGRAMMING II\Hospital_management_System\hospital_mangement_system\src\main\java\com\group8\hospital_mangement_system\controller\DepartmentController.java. Using fallback presentation compiler.
